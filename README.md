@@ -1,5 +1,5 @@
-# Projeto de Iniciação Científica em parceria com a Embrapa
-
+# Iniciação Científica (Embrapa)
+---------------
 Tecnologias utilizadas:
 - OpenCV
 - YOLO
