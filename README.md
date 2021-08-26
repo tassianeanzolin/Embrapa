@@ -3,4 +3,3 @@
 Tecnologias utilizadas:
 - OpenCV
 - YOLO
-- Anaconda
